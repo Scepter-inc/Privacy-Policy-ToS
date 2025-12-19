@@ -1,6 +1,6 @@
 # Privacy Policy & Terms of Service for Plutus
 
-_Last updated: October 2025_
+_Last updated: December 2025_
 
 ## Privacy Policy
 
